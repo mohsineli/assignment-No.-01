@@ -1,0 +1,62 @@
+span {
+    color: tomato;
+}
+
+section {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 100%;
+    padding-left: 10%;
+    color: rgb(90, 88, 88);
+    padding-top: 10%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: -50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 25px;
+    border-radius: 20px;
+    background-image: linear-gradient(orange, red);
+    color: black;
+    font-weight: 700;
+
+}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.top-margin {
+    margin-top: 70px;
+}
+
+.sec-p {
+    width: 100%;
+    padding-left: 10%;
+    color: rgb(90, 88, 88);
+    padding-top: 10%;
+}
+
+.sec-p img {
+    width: 50%
+}
+
+.section-tow {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
