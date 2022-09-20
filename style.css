@@ -8,11 +8,11 @@ span {
 }
 
 .half-width {
-    width: 100%;
+    width: 80%;
     padding-left: 10%;
     color: rgb(90, 88, 88);
     padding-top: 10%;
-    padding-right: 10%;
+    padding-right: 1%;
 }
 
 .half-width img {
@@ -73,6 +73,7 @@ p {
 
 body {
     margin: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .recipies-items {
